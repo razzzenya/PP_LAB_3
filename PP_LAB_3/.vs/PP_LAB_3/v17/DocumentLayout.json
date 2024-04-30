@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vscode_repos\\PP_LAB_3\\PP_LAB_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0C2BEF-B9E0-443C-9CF9-376C1CE39FD0}|PP_LAB_3\\PP_LAB_3.vcxproj|C:\\vscode_repos\\PP_LAB_3\\PP_LAB_3\\PP_LAB_3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE0C2BEF-B9E0-443C-9CF9-376C1CE39FD0}|PP_LAB_3\\PP_LAB_3.vcxproj|solutionrelative:PP_LAB_3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\vscode_repos\\PP_LAB_3\\PP_LAB_3\\PP_LAB_3\\Source.cpp",
+              "RelativeDocumentMoniker": "PP_LAB_3\\Source.cpp",
+              "ToolTip": "C:\\vscode_repos\\PP_LAB_3\\PP_LAB_3\\PP_LAB_3\\Source.cpp",
+              "RelativeToolTip": "PP_LAB_3\\Source.cpp",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAowHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T15:26:08.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
